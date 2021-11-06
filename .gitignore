@@ -19,3 +19,5 @@ flatpak/repo/
 compile_commands.json
 generated
 patches
+po/*.mo
+.gitignore
