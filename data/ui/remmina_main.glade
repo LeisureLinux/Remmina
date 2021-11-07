@@ -331,7 +331,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
                     </child>
                     <child>
                       <object class="GtkMenuItem" id="menuitem_help_news">
-                        <property name="visible">True</property>
+                        <property name="visible">False</property>
                         <property name="app-paintable">True</property>
                         <property name="can-focus">False</property>
                         <property name="action-name">app.news</property>
@@ -341,7 +341,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
                     </child>
                     <child>
                       <object class="GtkMenuItem" id="menuitem_help_homepage">
-                        <property name="visible">True</property>
+                        <property name="visible">False</property>
                         <property name="app-paintable">True</property>
                         <property name="can-focus">False</property>
                         <property name="action-name">app.homepage</property>
@@ -351,7 +351,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
                     </child>
                     <child>
                       <object class="GtkMenuItem" id="menuitem_help_donations">
-                        <property name="visible">True</property>
+                        <property name="visible">False</property>
                         <property name="app-paintable">True</property>
                         <property name="can-focus">False</property>
                         <property name="action-name">app.donations</property>
@@ -361,7 +361,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
                     </child>
                     <child>
                       <object class="GtkMenuItem" id="menuitem_help_wiki">
-                        <property name="visible">True</property>
+                        <property name="visible">False</property>
                         <property name="app-paintable">True</property>
                         <property name="can-focus">False</property>
                         <property name="action-name">app.wiki</property>
@@ -371,7 +371,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
                     </child>
                     <child>
                       <object class="GtkMenuItem" id="menuitem_help_community">
-                        <property name="visible">True</property>
+                        <property name="visible">False</property>
                         <property name="app-paintable">True</property>
                         <property name="can-focus">False</property>
                         <property name="action-name">app.community</property>
