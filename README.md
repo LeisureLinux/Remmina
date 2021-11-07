@@ -8,7 +8,11 @@
 ## Remmina remote desktop client
 
 *Use other desktops remotely, from a tiny screen or large monitors.*
-
+* Purposedly removed EXEC plugin
+* Add build.sh to save time
+* Removed Remmina Website Connection which add confuse 
+* Ninja is good
+* Use glade to modify the glade files
 
 * RDP, VNC, SPICE, NX, X2Go, XDMCP, SSH and EXEC network protocols are supported.
 * Written in GTK, with a port to Qt underway.
@@ -18,6 +22,7 @@
 
 [How to install Remmina](https://remmina.org/how-to-install-remmina/),
 editable on [the wiki](https://gitlab.com/Remmina/Remmina/wikis/home).
+
 
 ### Configuration
 

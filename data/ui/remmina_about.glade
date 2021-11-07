@@ -30,7 +30,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <property name="title" translatable="yes">About</property>
     <property name="modal">True</property>
     <property name="type-hint">dialog</property>
-    <property name="program-name">Remmina-LeisureLinux</property>
+    <property name="program-name">Remmina-LeisureLinux V0.2.20211107</property>
     <property name="copyright" translatable="yes">Copyright © 2014–2021 Antenore Gatta, Giovanni Panozzo.
 Copyright © 2009–2014 Vic Lee
 LeisureLinux

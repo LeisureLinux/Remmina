@@ -26,7 +26,7 @@
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
                 <child>
-                  <!-- n-columns=3 n-rows=13 -->
+                  <!-- n-columns=3 n-rows=12 -->
                   <object class="GtkGrid" id="grid_options">
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>
@@ -406,24 +406,6 @@
                         <property name="left-attach">1</property>
                         <property name="top-attach">11</property>
                         <property name="width">2</property>
-                      </packing>
-                    </child>
-                    <child>
-                      <object class="GtkLabel" id="privacy_disclaimer_label">
-                        <property name="visible">True</property>
-                        <property name="can-focus">False</property>
-                        <property name="halign">start</property>
-                        <property name="margin-start">18</property>
-                        <property name="margin-end">18</property>
-                        <property name="label" translatable="yes">* By enabling statistics and/or news you consent to send and fetch data to/from remmina.org</property>
-                        <property name="justify">fill</property>
-                        <property name="wrap">True</property>
-                        <property name="wrap-mode">word-char</property>
-                      </object>
-                      <packing>
-                        <property name="left-attach">0</property>
-                        <property name="top-attach">12</property>
-                        <property name="width">3</property>
                       </packing>
                     </child>
                     <child>
